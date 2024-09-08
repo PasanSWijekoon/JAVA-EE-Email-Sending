@@ -22,7 +22,7 @@ public class SendmailContent extends HttpServlet {
 
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        String recipient = "shopwebtoons@gmail.com";
+        String recipient = "......";
         String subject = "Plain Text Email";
         String plainTextContent = "This is a simple plain text email.";
 
