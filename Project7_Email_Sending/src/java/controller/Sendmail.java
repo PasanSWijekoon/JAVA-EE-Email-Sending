@@ -23,7 +23,7 @@ public class Sendmail extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
     
-        String recipient = "shopwebtoons@gmail.com";
+        String recipient = "..........";
         String subject = "Invoice for Your Purchase";
         
         // HTML invoice content with embedded CSS
