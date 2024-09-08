@@ -11,9 +11,9 @@ import javax.mail.internet.MimeMessage;
 
 public class Mail {
 
-    private static final String APP_EMAIL = "pasanwijekoon1@gmail.com";
-    private static final String APP_PASSWORD = "rtfo cbdn xmdj knfn";
-    private static final String APP_NAME = "Shop@PlayTech";
+    private static final String APP_EMAIL = "......";
+    private static final String APP_PASSWORD = "......";
+    private static final String APP_NAME = ".......";
 
     // Method to send an email with support for both plain text and HTML
     public static void sendMail(String email, String subject, String content, boolean isHtml) {
